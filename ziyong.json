@@ -20,6 +20,14 @@
       "filterable": 1
     },
     {
+      "key": "*色南国资源",
+      "name": "*色南国资源",
+      "type": 1,
+      "api": "https://api.sexnguon.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 0
+    },
+    {
       "key": "Cg51",
       "name": "🔞 51吃瓜 | 图密√",
       "type": 3,
@@ -61,14 +69,14 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "*美少女资源",
-      "name": "🔞美少女资源",
+   {
+      "key": "ms4nii",
+      "name": "美少女资源(已修复)",
       "type": 0,
       "api": "https://www.msnii.com/api/xml.php",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 0
+      "filterable": 1
     },
     {
       "key": "zp024",
@@ -160,14 +168,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "💞美少女资源💞",
-      "name": "💞美少女资源💞",
-      "type": 0,
-      "api": "https://www.msnii.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+    
     {
       "key": "bttcj.com",
       "name": "成人04",
@@ -185,14 +186,7 @@
       "searchable": 0,
       "quickSearch": 0
     },
-    {
-      "key": "💞探探资源💞",
-      "name": "💞探探资源💞",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+  
     {
       "key": "feifei67.com",
       "name": "成人22",
@@ -244,13 +238,14 @@
       "searchable": 1,
       "filterable": 1
     },
-    {
-      "key": "💞香奶儿资源💞",
-      "name": "💞香奶儿资源💞",
+   {
+      "key": "gdlsE",
+      "name": "香奶儿资源(已修复)",
       "type": 0,
       "api": "https://www.gdlsp.com/api/xml.php",
-      "searchable": 0,
-      "quickSearch": 0
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "api.maozyapi.com",
@@ -379,15 +374,7 @@
       "searchable": 1,
       "quickSearch": 1
     },
-    {
-      "key": "(18+)JAV名优",
-      "name": "(18+)JAV名优",
-      "type": 0,
-      "api": "http://mygzycj.com/api.php?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    
     {
       "key": "bttcj",
       "name": "*博天堂",
@@ -501,14 +488,7 @@
       "quickSearch": 1,
       "filterable": 0
     },
-    {
-      "key": "*探探资源",
-      "name": "*探探资源",
-      "type": 1,
-      "api": "https://apittzy.com/api.php/provide/vod/",
-      "searchable": 0,
-      "quickSearch": 0
-    },
+   
     {
       "key": "*狼少年",
       "name": "*狼少年",
