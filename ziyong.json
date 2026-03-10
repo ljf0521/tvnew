@@ -33,6 +33,15 @@
       ]
     },
     {
+      "key": "XMVideo",
+      "name": "🔞熊猫视频",
+      "type": 3,
+      "api": "csp_XMVideo",
+      "searchable": 1,
+      "filterable": 1,
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ljf0521/tvnew/refs/heads/main/182.jar"
+    },
+    {
       "key": "didi",
       "name": "💕滴滴(直连)",
       "type": 1,
@@ -684,15 +693,7 @@
       "quickSearch": 1,
       "filterable": 1
     },
-    {
-      "key": "zp157",
-      "name": "🔞熊猫资源",
-      "type": 0,
-      "api": "http://jcspcj8.com/api?ac=list",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 0
-    },
+    
     {
       "key": "gdlsE",
       "name": "香奶儿资源",
