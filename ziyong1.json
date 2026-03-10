@@ -430,7 +430,7 @@
       "api": "csp_XMVideo",
       "searchable": 1,
       "filterable": 1,
-      "jar": "./lib/182.jar"
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/ljf0521/tvnew/refs/heads/main/182.jar"
     },
     {
       "key": "✨柠檬✨",
